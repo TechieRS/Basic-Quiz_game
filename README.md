@@ -8,38 +8,6 @@ This is a simple quiz program written in C. The program asks a series of multipl
 - Displays the user's score at the end
 - Option to retake the quiz
 
-## Questions
-
-1. What is the capital of India?
-    - 1. Paris
-    - 2. Patna
-    - 3. New Delhi
-    - 4. Harayana
-
-2. What is 2 + 2?
-    - 1. 3
-    - 2. 4
-    - 3. 5
-    - 4. 6
-
-3. Who wrote the National Anthem of India?
-    - 1. Rabindranath Tagore
-    - 2. Mahatma Gandhi
-    - 3. Bhagat Singh
-    - 4. Rahul Gandhi
-
-4. What is the largest planet in our solar system?
-    - 1. Earth
-    - 2. Mars
-    - 3. Jupiter
-    - 4. Saturn
-
-5. What is the boiling point of water?
-    - 1. 90°C
-    - 2. 100°C
-    - 3. 110°C
-    - 4. 120°C
-
 ## How to Run
 
 1. Clone the repository:
@@ -61,9 +29,4 @@ This is a simple quiz program written in C. The program asks a series of multipl
     ./quiz
     ```
 
-## Example Output
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
