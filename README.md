@@ -13,8 +13,8 @@ This is a simple quiz program written in C. The program asks a series of multipl
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/quiz-program.git
-    cd quiz-program
+    git clone https://github.com/TechieRS/Basic-Quiz_game.git
+    cd Basic-Quiz_game
     ```
 
 2. Compile the program:
